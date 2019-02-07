@@ -1,0 +1,4 @@
+#Mon Feb 04 18:51:25 IST 2019
+base.0=/media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

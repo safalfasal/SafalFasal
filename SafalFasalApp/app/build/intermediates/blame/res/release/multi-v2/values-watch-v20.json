@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/book/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bc70783919e75d2764c832b4fa0b356e/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

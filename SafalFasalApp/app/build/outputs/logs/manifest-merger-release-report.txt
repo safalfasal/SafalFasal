@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bc70783919e75d2764c832b4fa0b356e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/book/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c2182dea980cba3166f9312e9faf4155/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f2359b266df0915fceff4d3000cfe106/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/713923932667608f72ec4cc82a3a2847/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/942d5fd8f26453614933d16ceea5df63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/715f526efa5f1de33552a3d77a0d7b64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/13f2ca98d13b883e4ebf1f095c1e1c7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8483ae6b2e19aa57c30b1a7b355efdf4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8e97af31864ae62eda116478b4b8cc4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/eb2d5a5f9c4ffd4e223e24b9a51f4548/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d8c10e9cf7af55d5ca72c07f552b1deb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a2638ebbfb93b56627f29316bf55469d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f321af49a39e3a466f159e6e00a0abbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e113b644831bfcdfe41d3c3c8600fb6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eb9392202ba40ebcc70a4079e93bad21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/05725c24ce02c02d5508cb46967e399a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cfcc1a68fc986f11fa8f981f85c45e5e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3ab3029523fc477bd6f0fa0c03c64972/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f00e1fe9a77072b08601ff93adbd9a38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/287d1d7be432bf4a484e4c479f49565f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/30c3cd5a379d9134932d075683651c85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/44a42a3024df2ece5a77394d98117219/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5d020ad40c47ea987c1fdad2f59da6c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/523f584f7d4d105763d12cd518bf33f3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/adf972055feb1533818e2c52f4154170/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b16d0498170f4d677374631cc64a4158/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a370cfca33c30334625860df9178b065/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+		INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:7:22-78
+uses-feature#android.hardware.Camera
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:8:5-59
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:8:19-57
+application
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:9:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/book/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c2182dea980cba3166f9312e9faf4155/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/book/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c2182dea980cba3166f9312e9faf4155/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/05725c24ce02c02d5508cb46967e399a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/05725c24ce02c02d5508cb46967e399a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cfcc1a68fc986f11fa8f981f85c45e5e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cfcc1a68fc986f11fa8f981f85c45e5e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/05725c24ce02c02d5508cb46967e399a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:15:9-40
+activity#crop.iisc.project.croppestdetector.MainActivity
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:16:9-18:20
+	android:label
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:16:19-47
+activity#crop.iisc.project.croppestdetector.ResultActivity
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:19:9-21:20
+	android:label
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:19:19-49
+activity#crop.iisc.project.croppestdetector.Splashscreen
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:22:9-29:20
+	android:label
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:27:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:31:9-39:20
+	android:grantUriPermissions
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:35:13-47
+	android:authorities
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:33:13-51
+	android:exported
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:32:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:36:13-38:64
+	android:resource
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:38:17-51
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:37:17-67
+service#crop.iisc.project.croppestdetector.GPSTracker
+ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:40:9-47
+	android:name
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml:40:18-44
+uses-sdk
+INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bc70783919e75d2764c832b4fa0b356e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bc70783919e75d2764c832b4fa0b356e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/book/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c2182dea980cba3166f9312e9faf4155/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/book/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c2182dea980cba3166f9312e9faf4155/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f2359b266df0915fceff4d3000cfe106/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f2359b266df0915fceff4d3000cfe106/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/713923932667608f72ec4cc82a3a2847/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/713923932667608f72ec4cc82a3a2847/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/942d5fd8f26453614933d16ceea5df63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/942d5fd8f26453614933d16ceea5df63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/715f526efa5f1de33552a3d77a0d7b64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/715f526efa5f1de33552a3d77a0d7b64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/13f2ca98d13b883e4ebf1f095c1e1c7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/13f2ca98d13b883e4ebf1f095c1e1c7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8483ae6b2e19aa57c30b1a7b355efdf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8483ae6b2e19aa57c30b1a7b355efdf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8e97af31864ae62eda116478b4b8cc4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8e97af31864ae62eda116478b4b8cc4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/eb2d5a5f9c4ffd4e223e24b9a51f4548/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/eb2d5a5f9c4ffd4e223e24b9a51f4548/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d8c10e9cf7af55d5ca72c07f552b1deb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d8c10e9cf7af55d5ca72c07f552b1deb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a2638ebbfb93b56627f29316bf55469d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a2638ebbfb93b56627f29316bf55469d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f321af49a39e3a466f159e6e00a0abbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f321af49a39e3a466f159e6e00a0abbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e113b644831bfcdfe41d3c3c8600fb6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e113b644831bfcdfe41d3c3c8600fb6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eb9392202ba40ebcc70a4079e93bad21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eb9392202ba40ebcc70a4079e93bad21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/05725c24ce02c02d5508cb46967e399a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/05725c24ce02c02d5508cb46967e399a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cfcc1a68fc986f11fa8f981f85c45e5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/cfcc1a68fc986f11fa8f981f85c45e5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3ab3029523fc477bd6f0fa0c03c64972/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3ab3029523fc477bd6f0fa0c03c64972/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f00e1fe9a77072b08601ff93adbd9a38/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f00e1fe9a77072b08601ff93adbd9a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/287d1d7be432bf4a484e4c479f49565f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/287d1d7be432bf4a484e4c479f49565f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/30c3cd5a379d9134932d075683651c85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/30c3cd5a379d9134932d075683651c85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/44a42a3024df2ece5a77394d98117219/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/44a42a3024df2ece5a77394d98117219/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5d020ad40c47ea987c1fdad2f59da6c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5d020ad40c47ea987c1fdad2f59da6c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/523f584f7d4d105763d12cd518bf33f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/523f584f7d4d105763d12cd518bf33f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/adf972055feb1533818e2c52f4154170/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/adf972055feb1533818e2c52f4154170/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b16d0498170f4d677374631cc64a4158/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/book/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b16d0498170f4d677374631cc64a4158/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a370cfca33c30334625860df9178b065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/book/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a370cfca33c30334625860df9178b065/AndroidManifest.xml:20:5-44
+INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+		INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+		ADDED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml
+		INJECTED from /media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/src/main/AndroidManifest.xml

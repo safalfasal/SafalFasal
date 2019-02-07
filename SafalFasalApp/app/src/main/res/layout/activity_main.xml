@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+
+    <ImageView
+        android:id="@+id/imageView_pic"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitXY"
+        android:src="@mipmap/ic_launcher_foreground"
+        app:layout_constraintTop_toTopOf="parent"
+
+        tools:layout_editor_absoluteX="0dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/etxtUpload"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:background="#f0d4d4d4"
+        android:hint="Region"
+        android:textColorHint="#a69e9e"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:ignore="MissingConstraints" />
+
+    <!--<TextView
+        android:id="@+id/messageText"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:layout_gravity="center"
+
+        android:gravity="center_vertical"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/uploadButton"
+        tools:layout_editor_absoluteX="0dp"
+        also commented in Main
+        />-->
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@+id/uploadButton"
+        tools:layout_editor_absoluteX="0dp">
+
+        <Button
+            android:id="@+id/button_selectpic"
+            android:layout_width="161dp"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/imageView_pic"
+            android:text="Select Picture" />
+
+        <Button
+            android:id="@+id/button_clickcamera"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_selectpic"
+            android:text="Capture From Camera" />
+
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/uploadButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="46dp"
+        android:text="Click To Upload File"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="0dp" />
+
+</android.support.constraint.ConstraintLayout>

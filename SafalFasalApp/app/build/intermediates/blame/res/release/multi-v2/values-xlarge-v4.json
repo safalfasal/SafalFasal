@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/book/01D491750F1AE910/LINUx2/CropPestDetector/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/home/book/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bc70783919e75d2764c832b4fa0b356e/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        }
+    ]
+}
